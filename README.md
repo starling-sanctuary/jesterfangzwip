@@ -69,9 +69,7 @@
 
 
   
-  <br>
   <img src=div.png width="750">
-  <br>
   <br>
   <br>
   <img src=hannibal.gif width="750">
